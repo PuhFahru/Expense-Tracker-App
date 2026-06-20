@@ -1,6 +1,6 @@
 # Expense Tracker App — Starter Project
 
-Selamat datang di *starter project* submission kelas **Front-End Web Pemula**! 🎉
+Selamat datang di *starter project* **! 🎉
 
 Proyek ini sudah dilengkapi dengan tampilan HTML dan CSS yang siap pakai. Tugas Anda adalah melengkapi logika JavaScript-nya di berkas `main.js` agar aplikasi berfungsi sepenuhnya.
 
@@ -47,8 +47,3 @@ Proyek ini adalah HTML statis, sehingga tidak memerlukan instalasi apapun.
 
 ---
 
-## Cara Mengumpulkan
-
-1. Pastikan semua fitur sudah berjalan dengan baik di browser.
-2. Kompres seluruh folder proyek menjadi satu berkas **ZIP**.
-3. Unggah berkas ZIP tersebut ke halaman submission di platform Dicoding.
